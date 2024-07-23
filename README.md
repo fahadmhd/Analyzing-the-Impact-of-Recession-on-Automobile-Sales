@@ -1,6 +1,10 @@
-# Analyzing-the-Impact-of-Recession-on-Automobile-Sales
+
+
+## Analyzing-the-Impact-of-Recession-on-Automobile-Sales
 ### Introduction
-This project analyzes the historical trends in automobile sales during various recession periods. By examining various factors such as GDP, Unemployment Rate, Consumer Confidence, and more, we aim to gain insights into how recessions impacted automobile sales.
+This project analyzes the historical trends in automobile sales during various recession periods. By examining various factors such as GDP, Unemployment Rate, Consumer Confidence, and more, we aim to gain insights into how recessions impacted automobile sales. Finally some visualizations are made to promote understanding.
+
+![image1](https://github.com/fahadmhd/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/blob/main/RecessionReportgraphs.png)
 
 ### Objectives
 * Create informative and visually appealing plots with Matplotlib, Seaborn, and Dash.
@@ -31,5 +35,5 @@ The dataset contains historical automobile sales data, representing sales and re
 ### Conclusion
 This project provided valuable insights into the behavior of automobile sales during recession periods. GDP, consumer confidence, and unemployment rates significantly influence sales trends, especially during economic downturns.
 
-![image1](https://github.com/fahadmhd/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/blob/main/RecessionReportgraphs.png)
+
 ![image2](https://github.com/fahadmhd/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/blob/main/YearlyReportgraphs.png)
