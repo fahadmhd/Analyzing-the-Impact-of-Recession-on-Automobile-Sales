@@ -28,3 +28,8 @@ The dataset contains historical automobile sales data, representing sales and re
 * Seaborn
 * Dash (for interactive visualizations)
 * Folium (for mapping)
+### Conclusion
+This project provided valuable insights into the behavior of automobile sales during recession periods. GDP, consumer confidence, and unemployment rates significantly influence sales trends, especially during economic downturns.
+
+![image1](https://github.com/fahadmhd/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/blob/main/RecessionReportgraphs.png)
+![image2](https://github.com/fahadmhd/Analyzing-the-Impact-of-Recession-on-Automobile-Sales/blob/main/YearlyReportgraphs.png)
